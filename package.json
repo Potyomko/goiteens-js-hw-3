@@ -1,0 +1,26 @@
+{
+  "name": "goiteens-js-hw-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Potyomko/goiteens-js-hw-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Potyomko/goiteens-js-hw-3/issues"
+  },
+  "homepage": "https://github.com/Potyomko/goiteens-js-hw-3#readme",
+  "dependencies": {
+    "parcel": "^2.8.3"
+  },
+  "keywords": [],
+  "parcel": "^2.8.3"
+}
