@@ -25,7 +25,7 @@ function searchPocemon(e) {
 function makeCard(pokemon) {
   return  ` <div class="card">
   <div class="card-img-top">
-    <img src=${pokemon.sprites.front_default}" alt="${pokemon.name}>
+    <img src=${pokemon.sprites.front_default} alt=${pokemon.name}>
   </div>
   <div class="card-body">
     <h2 class="card-title">Ім'я:${pokemon.name} </h2>
